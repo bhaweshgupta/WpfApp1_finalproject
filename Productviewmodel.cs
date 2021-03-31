@@ -50,12 +50,7 @@ namespace WpfApp1_finalproject
                 case "Insert":
                     datahandle.insertdata(p);
                     break;
-                case "update":
-
-                    break;
-
-                case "delete":
-                    break;
+              
 
 
 
